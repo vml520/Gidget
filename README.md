@@ -1,6 +1,6 @@
 # Gidget
 
-A sunny, daily spending tracker that always shows your cash on hand. Runs entirely in
+A daily spending tracker that always shows your cash on hand. Runs entirely in
 your browser — no build step, no accounts, no server — and you can back it up or export
 it whenever you like.
 
