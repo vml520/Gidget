@@ -74,5 +74,4 @@ shared. Exports are generated on your device.
 
 ## License
 
-MIT — see [LICENSE](LICENSE). Replace `[Your Name]` in that file with your name before
-publishing.
+MIT — see [LICENSE](LICENSE).
